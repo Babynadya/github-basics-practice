@@ -1,1 +1,2 @@
-
+Adding more text to practice Git commits.
+Git is getting easier.
