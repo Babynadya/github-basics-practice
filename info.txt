@@ -1,2 +1,4 @@
 Adding more text to practice Git commits.
 Git is getting easier.
+
+This line was added from the GitHub website.
